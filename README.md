@@ -98,6 +98,14 @@ portfolio = LongShortPortfolio(top_pct=0.1, bottom_pct=0.1)
 summary = portfolio.get_portfolio_summary(composite, prices)
 print(summary)
 ```
+### Output
+![Image](https://github.com/user-attachments/assets/c167be10-b90c-4dd7-b08e-ddfd9fa2f772)
+
+![Image](https://github.com/user-attachments/assets/db880238-873f-47b0-af1d-569a6cbe8904)
+
+![Image](https://github.com/user-attachments/assets/3e44123f-1bd1-468c-bf27-d22e8017c6eb)
+
+![Image](https://github.com/user-attachments/assets/a4b2116c-57ba-4ced-b744-651d41b4d03d)
 
 ## 📊 Factor Definitions
 
