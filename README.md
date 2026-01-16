@@ -1,6 +1,6 @@
 # Alpha Research Engine
 
-A quantitative finance portfolio project demonstrating skills in factor-based investing, big data processing, and capital market strategies.
+A quantitative finance portfolio project demonstrating skills in factor-based investing, big data processing, and capital market strategies. You can access it via the following [link](https://alpha-researh-engine.streamlit.app/).
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-red.svg)
