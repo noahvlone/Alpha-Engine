@@ -46,7 +46,7 @@ Alpha-Engine/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Alpha-Engine.git
+git clone https://github.com/noahvlone/Alpha-Engine.git
 cd Alpha-Engine
 ```
 
